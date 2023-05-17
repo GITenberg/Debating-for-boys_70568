@@ -1,0 +1,31 @@
+_repo: Debating-for-boys_70568
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Foster, William Horton
+    gutenberg_agent_id: '55800'
+    url: http://www.gutenberg.org/2009/agents/55800
+description: ''
+gutenberg_issued: '2023-04-16'
+identifiers:
+  gutenberg: '70568'
+  lccn: '15017812'
+language: en
+pgterms:marc904: https://archive.org/details/debatingforboys00fostrich/page/n5/mode/2up
+pgterms:marc905: 20200615114251foster
+pgterms:marc906: '1913'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aUnited States :$bSturgis & Walton Company, $c1913, copyright
+  1914, copyright 1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Debates and debating'
+- !lcc 'PN'
+- GITenberg
+title: Debating for boys
+url: http://www.gutenberg.org/ebooks/70568
