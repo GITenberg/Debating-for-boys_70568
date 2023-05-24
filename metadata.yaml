@@ -1,11 +1,16 @@
 _repo: Debating-for-boys_70568
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70568-h/images/cover.jpg
 creator:
   author:
     agent_name: Foster, William Horton
     gutenberg_agent_id: '55800'
     url: http://www.gutenberg.org/2009/agents/55800
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70568#Debating-for-boys
 gutenberg_issued: '2023-04-16'
 identifiers:
   gutenberg: '70568'
